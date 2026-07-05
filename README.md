@@ -78,7 +78,7 @@ Seaborn, Streamlit
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/PampanaMounica/Traffic_demand_prediction>
 cd traffic-demand-prediction
 
 # 2. Install dependencies
