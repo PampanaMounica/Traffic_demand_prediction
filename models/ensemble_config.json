@@ -1,0 +1,23 @@
+{
+    "weight_lgb": 0.5,
+    "weight_xgb": 0.5,
+    "features": [
+        "congestion_pressure",
+        "weather_factor",
+        "incident_num",
+        "channel_busy_ratio_pct",
+        "occupancy_pct",
+        "avg_speed_kmph",
+        "flow_veh_per_hr",
+        "speed_density_ratio",
+        "packet_loss_pct",
+        "wireless_congestion_intensity",
+        "queue_length_veh",
+        "throughput_per_queued_vehicle",
+        "hour",
+        "road_segment_freq",
+        "is_rush_hour",
+        "day_of_week",
+        "is_weekend"
+    ]
+}
